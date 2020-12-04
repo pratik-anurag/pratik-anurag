@@ -1,8 +1,6 @@
 [![Header](https://github.com/pratik-anurag/pratik-anurag/blob/main/readme_header.png "Header")](https://pratikanurag.github.io/)
 
-
 ### Hi People 👋
-
 
 I am Pratik Anurag. I am a Software Engineer. I’m currently learning Golang and Python. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
 
