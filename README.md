@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/pratik-anurag/pratik-anurag/main/readme_header.png "Header")](https://pratikanurag.github.io/)
+[![Header](https://github.com/pratik-anurag/pratik-anurag/blob/main/readme_header.png "Header")](https://pratikanurag.github.io/)
 
 
 ### Hi People 👋
