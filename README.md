@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 ### GitHub Stats
 <a href="https://github.com/pratik-anurag/pratik-anurag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-anurag&hide=java,html&title_color=ffffff&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-anurag&hide=java,html&title_color=000000&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff" />
 </a>
 
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
