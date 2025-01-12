@@ -35,11 +35,7 @@ I am **Pratik Anurag**, a **Software Engineer** with a focus on building tools a
 
 ---
 
-## 🌟 **Highlighted Projects**
-- **[Project Name](https://github.com/pratik-anurag/project-link)**: Short description of the project.
-- **[Another Project](https://github.com/pratik-anurag/another-project-link)**: Short description of another project.
-
-For more projects, visit [my repositories](https://github.com/pratik-anurag?tab=repositories).
+For projects, visit [my repositories](https://github.com/pratik-anurag?tab=repositories).
 
 ---
 
