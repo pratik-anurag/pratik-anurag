@@ -9,7 +9,7 @@ I am **Pratik Anurag**, a **Software Engineer** with a focus on building tools a
 ---
 
 ## 🛠️ **About Me**
-- 💻 Currently working at [PhonePe](https://www.phonepe.com) as a Software Engineer in the Tools team.
+- 💻 Currently working as a Software Engineer.
 - 🌱 Exploring and contributing to **open-source projects**.
 - ⚽ Big fan of **Manchester United**; I enjoy playing football on Fridays and watching matches.
 - 🎓 Bachelor's degree in **Information Science and Engineering** from [Dayananda Sagar College of Engineering](https://www.dsce.edu.in/).
